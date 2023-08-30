@@ -1,3 +1,7 @@
+"""
+This module contains a flask application for a simple web service
+"""
+
 from website import create_app
 
 app = create_app()
